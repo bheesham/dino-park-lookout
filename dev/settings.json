@@ -8,7 +8,7 @@
     "* the `config` dependency."
   ],
   "auth": {
-    "issuer": "https://dev.mozilla-dev.auth0.com/",
+    "issuer": "https://idp-dev.iam.mozilla.com/",
     "validation": {
       "audience": "hook.dev.sso.allizom.org"
     }
